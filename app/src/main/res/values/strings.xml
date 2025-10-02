@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Recents Shortcut</string>
+
+    <string name="complication_recents">Recents</string>
+
+    <string name="complication_recents_text">Recents (text)</string>
+    <string name="complication_recents_icon">Recents (icon)</string>
+    <string name="complication_recents_image">Recents (image)</string>
+    <string name="complication_recents_progress">Recents (progress)</string>
+
+    <string name="toast_error_launch">Could not launch recents app!</string>
+</resources>
