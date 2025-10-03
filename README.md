@@ -5,11 +5,11 @@ This app is intended to work as a shortcut for the default recents launcher from
 ##
 ### Features
 <ul>
-  <li>Shortcut (open the app to launch the recents launcher)</li>
-  <li>RecentsIcon (complication / ICON)</li>
-  <li>RecentsImage (complication / SMALL_IMAGE)</li>
-  <li>RecentsProgress (complication / GOAL_PROGRESS,RANGED_VALUE)</li>
-  <li>RecentsText (complication / SHORT_TEXT,LONG_TEXT)</li>
+  <li>App (open to launch the recents launcher)</li>
+  <li>Recents Icon (complication / ICON)</li>
+  <li>Recents Image (complication / SMALL_IMAGE)</li>
+  <li>Recents Progress (complication / GOAL_PROGRESS,RANGED_VALUE)</li>
+  <li>Recents Text (complication / SHORT_TEXT,LONG_TEXT)</li>
 </ul>
 
 ##
@@ -22,7 +22,7 @@ This app is intended to work as a shortcut for the default recents launcher from
 ### Donations
 - If you would like to support me, you can use one of the options bellow... Thank you! ❤️
 
-  <a href="https://www.paypal.com/donate/?hosted_button_id=7XGH7WXU5C7K6">
+  <a href="https://www.paypal.com/donate/?hosted_button_id=4RFEEPTYYMRAU">
   <img src="readme/paypal.png" width="160" height="50"/>
   </a>
 </br>
