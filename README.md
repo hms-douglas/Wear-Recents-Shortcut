@@ -23,7 +23,7 @@ This app is intended to work as a shortcut for the default recents launcher from
 - If you would like to support me, you can use one of the options bellow... Thank you! ❤️
 
   <a href="https://www.paypal.com/donate/?hosted_button_id=7XGH7WXU5C7K6">
-  <img src="readme/en/paypal.png" width="160" height="50"/>
+  <img src="readme/paypal.png" width="160" height="50"/>
   </a>
 </br>
 
